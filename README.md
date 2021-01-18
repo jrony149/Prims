@@ -5,8 +5,8 @@ Simply type "Make" into terminal to build top level file.
 Run program with file name for input data as well as file name to which output data will be written included as command line arguments.
 Input data file should be command line arg 1.  Output data file should be command line arg 2.
 
-The input data file must of course cotain the graph you wish to extract a minimum weight spanning tree from.
-In the file, your graph must be represented a list of edges.  The first two lines of this list will represent the order (number of vertices in the graph 
+The input data file must of course contain the graph you wish to extract a minimum weight spanning tree from.
+In the file, your graph must be represented as a list of edges.  The first two lines of this list will represent the order (number of vertices in the graph 
 and the size (number of edges in the graph) of the graph, respectively.  Below is featured an example of how the input file must be formatted.
 
 7  
