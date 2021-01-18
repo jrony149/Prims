@@ -29,7 +29,7 @@ Each of the subsequent lines are formatted in the folling way:
 <vertex_1> <vertex_2> <edge_weight>
 
 This means that there is an edge between <vertex_1> and <vertex_2> and its weight is <edge_weight>.
-For example, from the above example, the first edge listed is "1 2 6".  This means that there is an edge between vertex 1 and vertex 2 and its weight is 6.
+For instance, from the above example, the first edge listed is "1 2 6".  This means that there is an edge between vertex 1 and vertex 2 and its weight is 6.
 
 The output file will have the following data in it upon the completion of the algorithm;
 
