@@ -9,8 +9,8 @@ The input data file must of course cotain the graph you wish to extract a minimu
 In the file, your graph must be represented a list of edges.  The first two lines of this list will represent the order (number of vertices in the graph 
 and the size (number of edges in the graph) of the graph, respectively.  Below is featured an example of how the input file must be formatted.
 
-7
-11
+7  
+11  
 1 2 6  
 1 4 3  
 2 3 5  
