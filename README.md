@@ -33,13 +33,13 @@ For example, from the above example, the first edge listed is "1 2 6".  This mea
 
 The output file will have the following data in it upon the completion of the algorithm;
 
- 5: (3, 5) 1.0
- 11: (6, 7) 2.0
- 2: (1, 4) 3.0
- 6: (3, 7) 4.0
- 3: (2, 3) 5.0
- 1: (1, 2) 6.0 
-Total Weight = 21.00
+ 5: (3, 5) 1.0  
+ 11: (6, 7) 2.0  
+ 2: (1, 4) 3.0  
+ 6: (3, 7) 4.0  
+ 3: (2, 3) 5.0  
+ 1: (1, 2) 6.0   
+Total Weight = 21.00  
 
 As you can see, each of the edges included in the minimum weight spanning tree are included and their edge numbers coincide with the order in which they were encountered
 in the input file.  The total weight of the entire spanning tree is also listed at the bottom with the title "Total Weight".
