@@ -11,17 +11,17 @@ and the size (number of edges in the graph) of the graph, respectively.  Below i
 
 7
 11
-1 2 6
-1 4 3
-2 3 5
-2 5 8
-3 5 1
-3 7 4
-4 5 7
-4 6 9
-5 6 6
-5 7 5
-6 7 2
+1 2 6  
+1 4 3  
+2 3 5  
+2 5 8  
+3 5 1  
+3 7 4  
+4 5 7  
+4 6 9  
+5 6 6  
+5 7 5  
+6 7 2  
 
 The order of the above graph is 7.  The size of the above graph is 11.  This means that there are 7 vertices and 11 edges in the graph.
 Each of the subsequent lines are formatted in the folling way:
